@@ -1,0 +1,25 @@
+input {
+	background-color: greenyellow;
+	border-color: white;
+	width: 150px;
+	margin-bottom: 10px;
+}
+
+input[type="radio"] {
+	width: fit-content;
+}
+
+label[for="visitante"] {
+	color: orangered;
+	font-weight: bolder;
+	font-size: large;
+}
+
+input[type="button"] {
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	border-width: 1px;
+	width: fit-content;
+}

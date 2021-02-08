@@ -1,0 +1,20 @@
+h1 {
+	color: #ff0000;
+}
+
+h2,
+.blue_text {
+	color: #0000ff;
+}
+
+p {
+	text-align: center;
+}
+
+.bold_text {
+	font-weight: bold;
+}
+
+.orange_text {
+	color: orange;
+}
